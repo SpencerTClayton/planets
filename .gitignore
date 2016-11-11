@@ -1,0 +1,3 @@
+*.csv
+results/
+!exception.csv
